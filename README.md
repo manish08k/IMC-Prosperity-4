@@ -1,6 +1,6 @@
 # IMC Prosperity 4 — Team Manish
 
-![IMC Prosperity 4 — Team Manish](media-kit.png)
+![IMC Prosperity 4 — Team Manish](media-kit-2.png)
 
 > Algorithmic trading competition · April 14–20, 2026  
 > Final rank: **#4479 Overall** · #5065 Algorithmic · #1741 Manual · #1211 Country  
